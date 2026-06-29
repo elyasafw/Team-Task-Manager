@@ -1,3 +1,3 @@
-`Create Login Page - MEDIUM`
-Create Login Page - HIGH
-Create Login Page - LOW
+1. Create Login Page - MEDIUM
+2. Create Login Page - HIGH
+3. Create Login Page - LOW
